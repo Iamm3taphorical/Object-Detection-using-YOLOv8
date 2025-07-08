@@ -194,13 +194,6 @@ For issues or questions:
 - Ensure input images are in supported formats
 - Review the [Ultralytics documentation](https://docs.ultralytics.com/)
 
-## 🔗 Related Projects
-
-- [video-detection](https://github.com/Iamm3taphorical/video-detection) - Video object detection system
-- [yolo-opencv-bottle-detection](https://github.com/Iamm3taphorical/yolo-opencv-bottle-detection) - Specialized bottle detection
-
----
-
 **Author**: Mahir Dyan  
 **GitHub**: [@Iamm3taphorical](https://github.com/Iamm3taphorical)  
 **Email**: mahirdyan30@gmail.com
